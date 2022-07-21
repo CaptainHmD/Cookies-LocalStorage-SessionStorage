@@ -1,0 +1,23 @@
+Cookies{
+
+Capacity: 4kb
+Accessible from:    anywindow
+expires: manually set
+}
+
+
+Local Storage{
+    Capacity: 10mb
+    Accessible from:    anywindow
+    expires: never
+}
+
+
+
+Session Storage{
+    Capacity: 5mb
+    Accessible from: same tab
+    expires: on tab close
+
+    
+}
